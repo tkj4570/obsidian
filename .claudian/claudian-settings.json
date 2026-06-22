@@ -1,0 +1,110 @@
+{
+  "userName": "",
+  "permissionMode": "yolo",
+  "model": "deepseek-v4-pro",
+  "thinkingBudget": "off",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [
+    {
+      "id": "snippet-1782042706744",
+      "name": "api",
+      "description": "",
+      "envVars": "ANTHROPIC_API_KEY=sk-c8a2feb9e7a54c7c9e505d8be06d15d7\nANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic\nANTHROPIC_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-flash\nANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro",
+      "scope": "provider:claude",
+      "modelAliases": {}
+    }
+  ],
+  "customContextLimits": {},
+  "customModelAliases": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "claude": {
+      "safeMode": "auto",
+      "cliPath": "",
+      "cliPathsByHost": {
+        "device:7567e1be-04e4-4f14-bec5-d09cc69c0b61": "D:\\work_tools\\npm-global\\claude.cmd"
+      },
+      "loadUserSettings": true,
+      "enableChrome": true,
+      "enableBangBash": false,
+      "enableOpus1M": true,
+      "enableSonnet1M": true,
+      "customModels": "",
+      "lastModel": "haiku",
+      "environmentVariables": "ANTHROPIC_API_KEY=sk-c8a2feb9e7a54c7c9e505d8be06d15d7\nANTHROPIC_BASE_URL=http://127.0.0.1:15721\nANTHROPIC_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-flash\nANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-proOPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro",
+      "environmentHash": "ANTHROPIC_BASE_URL=http://127.0.0.1:15721|ANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro|ANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-proOPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro|ANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-flash|ANTHROPIC_MODEL=deepseek-v4-pro"
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "customModels": "",
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {
+        "device:7567e1be-04e4-4f14-bec5-d09cc69c0b61": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "OPENCODE_ENABLE_EXA=1",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {},
+      "visibleModels": []
+    },
+    "pi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "discoveredModels": [],
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "toolMode": "all",
+      "visibleModels": []
+    }
+  },
+  "settingsProvider": "claude",
+  "savedProviderModel": {
+    "claude": "deepseek-v4-pro"
+  },
+  "savedProviderEffort": {
+    "claude": "high"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderThinkingBudget": {},
+  "savedProviderPermissionMode": {
+    "claude": "yolo"
+  },
+  "lastCustomModel": "deepseek-v4-pro",
+  "maxTabs": 3,
+  "tabBarPosition": "input",
+  "enableAutoScroll": true,
+  "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
+  "chatViewPlacement": "right-sidebar",
+  "hiddenProviderCommands": {}
+}

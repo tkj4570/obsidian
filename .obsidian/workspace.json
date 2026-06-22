@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "f006079967f460d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e8a227dd99731e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3dcafefd41a6e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "f60ab3fe41e1bc92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52dcbe96758d168a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7d8bfbfaaa5ee8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4dcc7dd3dc5977f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "21e92254e0e5fda9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6c935d8216a18337",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3df72b1bc0ed25d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e153221a3029a81f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f3cf9ededccdfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战 的反向链接列表"
+            }
+          },
+          {
+            "id": "8aef5e68b0c6781b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战 的出链列表"
+            }
+          },
+          {
+            "id": "756bd6faa961d0bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e64f6d678e866ec3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1650c60ded439c73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "8e9821fc58140edd",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "b5ecc622234480a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 522.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "terminal:Open terminal": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b5ecc622234480a9",
+  "lastOpenFiles": [
+    "raw/articles/Loop_Engineering_循环工程_v17.md",
+    "llm-wiki-zh.md",
+    "wiki/overview.md.tmp.16164.33e566fae2d7",
+    "wiki/index.md.tmp.16164.ea869776e55d",
+    "wiki/concepts/知识复利.md",
+    "wiki/concepts/Memex.md",
+    "wiki/concepts/LLM Wiki 模式.md",
+    "wiki/entities/Vannevar Bush.md",
+    "wiki/entities/Obsidian.md",
+    "wiki/entities/Andrej Karpathy.md",
+    "wiki/sources/LLM Wiki 方法论.md",
+    "wiki/index.md",
+    "llm-wiki.md",
+    "llm-wiki-zh.md.tmp.16164.e7400a30453c",
+    "CLAUDE.md",
+    "wiki/overview.md",
+    "wiki/log.md.tmp.16164.20ed37d847b3",
+    "wiki/log.md.tmp.16164.688fdc80a24b",
+    "CLAUDE.md.tmp.16164.755af59bc800",
+    "CLAUDE.md.tmp.16164.4b4596f3386b",
+    "CLAUDE.md.tmp.16164.518336490b25",
+    "raw/articles/Loop Engineering 循环工程.md",
+    "raw/articles/Loop Engineering 循环工程.md.tmp.16164.a5c750ffa4e0",
+    "raw/articles/2 分钟，教你国内爽用 Claude Code + Codex！保姆级教程 - 编程导航  一线开发者编程经验和技术实战分享.md",
+    "raw/transcripts",
+    "wiki/concepts/Loop Engineering.md",
+    "wiki/concepts/Harness Engineering.md",
+    "wiki/concepts/Context Engineering.md",
+    "wiki/entities/Peter Steinberger.md",
+    "wiki/entities/OpenAI.md",
+    "wiki/entities/DeepSeek.md",
+    "wiki/entities/Cursor.md",
+    "wiki/entities/Codex.md",
+    "wiki/entities/CC Switch.md",
+    "wiki/entities/Boris Cherny.md",
+    "wiki/entities/Anthropic.md",
+    "未命名.canvas"
+  ]
+}
