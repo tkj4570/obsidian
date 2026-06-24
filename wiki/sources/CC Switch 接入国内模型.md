@@ -1,7 +1,7 @@
 ---
-title: "CC Switch 接入国内模型"
+title: CC Switch 接入国内模型
 type: source
-source_url: "https://www.codefather.cn/post/2064234894459990018"
+source_url: https://www.codefather.cn/post/2064234894459990018
 author: "[[程序员鱼皮]]"
 published: 2026-06-21
 ingested: 2026-06-21
@@ -13,7 +13,7 @@ related:
   - "[[CC Switch]]"
   - "[[Claude Code]]"
   - "[[Codex]]"
-  - "[[DeepSeek]]"
+  - "[[Valve 在时隔多年后，正式发布了一款全新的游戏硬件Steam Machine]]"
 ---
 
 # CC Switch 接入国内模型
@@ -35,7 +35,7 @@ related:
 ## 涉及的新实体
 
 - [[CC Switch]] — 开源跨平台模型切换工具
-- [[DeepSeek]] — 国内大模型提供商，支持 Anthropic 兼容协议
+- [[Valve 在时隔多年后，正式发布了一款全新的游戏硬件Steam Machine]] — 国内大模型提供商，支持 Anthropic 兼容协议
 
 ## 涉及的工具/实体（更新）
 

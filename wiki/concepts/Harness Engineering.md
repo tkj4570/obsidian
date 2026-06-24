@@ -39,3 +39,13 @@ updated: 2026-06-21
 ## 在演进中的位置
 
 位于 Context Engineering 之上，Loop Engineering 之下。详见 [[comparisons/AI 编程四范式演进|AI 编程四范式演进]]。
+
+## 关联连接
+- [[Context Engineering]]
+- [[Loop Engineering]]
+- [[WorkTree]]
+- [[MCP]]
+- [[Claude Code]]
+- [[Codex]]
+- [[Benchmark vs 任务交付]]
+- [[Vibe Coding]]

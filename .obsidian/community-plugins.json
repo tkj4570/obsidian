@@ -2,5 +2,6 @@
   "terminal",
   "realclaudian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api"
 ]

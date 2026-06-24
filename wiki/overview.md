@@ -61,9 +61,25 @@ Loop Engineering (2026中)
 
 6. **知识复利是实现长期价值的关键**——LLM Wiki 和 Loop Engineering 共享同一底层逻辑：让 LLM 做簿记，让每次交互的产出持久积累而非消失在聊天记录中
 
+7. **多媒体知识管理是 LLM Wiki 的自然延伸**——从文本知识到视频、音频等媒体内容的结构化处理，让知识体系更加立体和完整
+
+8. **工具链整合是实用落地的关键**——专用工具（如 Bilibili Web Clipper）+通用工具（如 Local REST API）的组合实现端到端的自动化工作流
+
 ### 跨领域连接
 
-- **LLM Wiki ↔ Loop Engineering**：两个看似不相关的概念共享核心思想——LLM 做持续的簿记工作，人类做策展和决策。LLM Wiki 中"好答案归档回 wiki"的 Query 复利，与 Loop Engineering 中"状态记忆让循环不归零"的设计完全同构。详见 [[知识复利]]。
+- **LLM Wiki ↔ Loop Engineering**：两个看似不相关的概念共享核心思想——LLM 做持续的簿记工作，人类做策展和决策。详见 [[知识复利]]。
+
+- **Antigravity 失败 ↔ Loop 三要素缺失**：谷歌 [[Antigravity]] 的失败恰好从反面验证了 [[Loop Engineering]] 的必要性——缺乏错误恢复、状态保存、人工接管等 Loop 机制，单步正确率再高的模型也无法可靠交付多步任务。详见 [[Benchmark vs 任务交付]]。
+
+- **多媒体摄入 ↔ LLM Wiki**：[[视频转知识库]] 和 [[多媒体知识摄入]] 扩展了 LLM Wiki 的边界，将非文本内容纳入知识管理体系，体现了三层架构的适应性。
+
+- **工具链整合 ↔ 实用价值**：[[Bilibili Web Clipper]] + [[Local REST API]] + [[Obsidian]] 的组合体现了从理论到实践的转化，降低了技术使用门槛。
+
+- **GitHub热榜 ↔ AI工作流工具**：[[GitHub热榜]] 反映了 [[AI工作流工具]] 的兴起，揭示了从agent skills到agency agents再到product process AI的发展趋势，体现了AI工具的演进路径。
+
+- **代码库记忆 ↔ AI编程效率**：[[代码库记忆]] 解决了AI编程中大型代码库理解效率低的核心痛点，是AI编程工具的关键基础设施。
+
+- **智能体技能 ↔ 多智能体协作**：[[智能体技能]] 是 [[开源超级智能体框架]] 的基础，通过结构化技能定义实现了复杂任务的协作执行。
 
 ### 待探索的方向
 
@@ -72,6 +88,13 @@ Loop Engineering (2026中)
 - MCP 协议在 AI 编程工具连接中的实际应用
 - 国内模型（DeepSeek、Qwen 等）在 AI 编程场景中的表现对比
 - 不同工具的 Skills/技能沉淀机制对比
+- 多媒体内容的语义理解和自动关联机制
+- 跨平台多媒体内容摄入的标准化流程
+- 知识库中多媒体内容的高效检索和组织方式
+- GitHub 热榜项目的深度分析和价值评估体系
+- AI 工作流工具在实际项目中的应用效果和ROI分析
+- 开源超级智能体框架的规模化部署和运维策略
+- 智能体技能的标准化和跨平台兼容性
 
 ### 来源清单
 
@@ -80,6 +103,10 @@ Loop Engineering (2026中)
 1. [[wiki/sources/Loop Engineering 循环工程|Loop Engineering 循环工程]] — 鱼皮，2026.06
 2. [[wiki/sources/CC Switch 接入国内模型|CC Switch 接入国内模型]] — 鱼皮，2026.06
 3. [[wiki/sources/LLM Wiki 方法论|LLM Wiki 方法论]] — Andrej Karpathy，2026.06（本知识库的元方法论）
+4. [[wiki/sources/谷歌大咖出走分析|谷歌大咖出走分析]] — 字母AI，2026.06
+5. [[wiki/sources/Horizon 每日速递 2026-06-21|Horizon 2026-06-21]] / [[wiki/sources/Horizon 每日速递 2026-06-22|2026-06-22]] — 每日科技资讯
+6. [[wiki/sources/B站视频转本地AI知识库！新手也能3分钟上手|B站视频转本地AI知识库！新手也能3分钟上手]] — MIP耀，2026.04（多媒体知识摄入技术体系）
+7. [[wiki/sources/6月23日 github热榜：涨⭐前十项目全解析|6月23日 github热榜：涨⭐前十项目全解析]] — 大雄AI实战，2026.06（GitHub热榜分析框架和AI工作流工具发展趋势）
 
 ---
 

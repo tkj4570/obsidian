@@ -35,3 +35,12 @@ updated: 2026-06-21
 ## 与本知识库的关系
 
 本知识库的 `CLAUDE.md` 就是 Context Engineering 的实践——它告诉 LLM 知识库的结构、规范和操作流程，让 LLM 能在正确理解上下文的基础上维护 wiki。
+
+## 关联连接
+- [[Prompt Engineering]]
+- [[Harness Engineering]]
+- [[Loop Engineering]]
+- [[LLM Wiki 模式]]
+- [[Memex]]
+- [[知识复利]]
+- [[CLAUDE.md]]

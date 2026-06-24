@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "14e8a227dd99731e",
+        "id": "53ad38036cc8d161",
         "type": "tabs",
         "children": [
           {
-            "id": "db3dcafefd41a6e8",
+            "id": "a04b1f552888e299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "raw/transcripts/6月23日 github热榜：涨⭐前十项目全解析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "6月23日 github热榜：涨⭐前十项目全解析"
             }
           },
           {
-            "id": "f60ab3fe41e1bc92",
+            "id": "d0d636e5883d28f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/GitHub热榜.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub热榜"
             }
           }
         ],
@@ -105,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战.md",
+                "file": "wiki/concepts/GitHub热榜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战 的反向链接列表"
+              "title": "GitHub热榜 的反向链接列表"
             }
           },
           {
@@ -124,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战.md",
+                "file": "wiki/concepts/GitHub热榜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "提示词工程已死，Loop Engineering 称王！保姆级教程 + 项目实战 的出链列表"
+              "title": "GitHub热榜 的出链列表"
             }
           },
           {
@@ -167,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -194,13 +199,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6c1b335976de2db8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "wiki/index.md"
+              },
+              "icon": "lucide-info",
+              "title": "index的笔记属性"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,44 +235,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5ecc622234480a9",
+  "active": "8e9821fc58140edd",
   "lastOpenFiles": [
-    "raw/articles/Loop_Engineering_循环工程_v17.md",
-    "llm-wiki-zh.md",
+    "wiki/sources/Horizon 每日速递 2026-06-24.md",
+    "raw/transcripts/6月23日 github热榜：涨⭐前十项目全解析.md",
+    "raw/transcripts/2026-06-24-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "wiki/concepts/代码库记忆.md",
+    "wiki/concepts/智能体技能.md",
+    "wiki/concepts/开源超级智能体框架.md",
+    "wiki/concepts/AI工作流工具.md",
+    "wiki/concepts/GitHub热榜.md",
+    "wiki/entities/大雄AI实战.md",
+    "wiki/sources/6月23日 github热榜：涨⭐前十项目全解析.md",
+    "wiki/log.md",
+    "wiki/concepts/多媒体知识摄入.md",
+    "wiki/concepts/视频转知识库.md",
+    "wiki/entities/视频转知识库.md",
+    "wiki/sources/B站视频转本地AI知识库！新手也能3分钟上手.md",
+    "wiki/entities/karpathy-llm-wiki-vault.md",
+    "wiki/entities/Local REST API.md",
+    "wiki/entities/Bilibili Web Clipper.md",
+    "wiki/entities/Anthropic.md",
+    "wiki/entities/MIP耀.md",
+    "wiki/entities/Google DeepMind.md",
+    "wiki/entities/GBrain.md",
+    "wiki/entities/Cursor.md",
+    "wiki/entities/Codex.md",
+    "wiki/entities/Codebase Memory MCP.md",
+    "wiki/entities/CC Switch.md",
+    "raw/articles/personal",
+    "raw/articles/未命名",
+    "raw/articles/Horizon",
+    "raw/articles/新建文件夹",
     "wiki/overview.md.tmp.16164.33e566fae2d7",
     "wiki/index.md.tmp.16164.ea869776e55d",
-    "wiki/concepts/知识复利.md",
-    "wiki/concepts/Memex.md",
-    "wiki/concepts/LLM Wiki 模式.md",
-    "wiki/entities/Vannevar Bush.md",
-    "wiki/entities/Obsidian.md",
-    "wiki/entities/Andrej Karpathy.md",
-    "wiki/sources/LLM Wiki 方法论.md",
-    "wiki/index.md",
-    "llm-wiki.md",
     "llm-wiki-zh.md.tmp.16164.e7400a30453c",
-    "CLAUDE.md",
-    "wiki/overview.md",
     "wiki/log.md.tmp.16164.20ed37d847b3",
     "wiki/log.md.tmp.16164.688fdc80a24b",
     "CLAUDE.md.tmp.16164.755af59bc800",
-    "CLAUDE.md.tmp.16164.4b4596f3386b",
-    "CLAUDE.md.tmp.16164.518336490b25",
-    "raw/articles/Loop Engineering 循环工程.md",
-    "raw/articles/Loop Engineering 循环工程.md.tmp.16164.a5c750ffa4e0",
-    "raw/articles/2 分钟，教你国内爽用 Claude Code + Codex！保姆级教程 - 编程导航  一线开发者编程经验和技术实战分享.md",
-    "raw/transcripts",
-    "wiki/concepts/Loop Engineering.md",
-    "wiki/concepts/Harness Engineering.md",
-    "wiki/concepts/Context Engineering.md",
-    "wiki/entities/Peter Steinberger.md",
-    "wiki/entities/OpenAI.md",
-    "wiki/entities/DeepSeek.md",
-    "wiki/entities/Cursor.md",
-    "wiki/entities/Codex.md",
-    "wiki/entities/CC Switch.md",
-    "wiki/entities/Boris Cherny.md",
-    "wiki/entities/Anthropic.md",
     "未命名.canvas"
   ]
 }

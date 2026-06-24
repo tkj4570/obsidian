@@ -66,3 +66,22 @@ related:
 - 调试比提示词难 10 倍：从简单的 Loop 做起，设小目标
 - Overbaking 风险：设循环上限，写清楚做/不做什么
 - 学习路径：先打好 Prompt/Context/Harness 基础，再上 Loop
+
+## 关联连接
+- [[Loop Engineering]]
+- [[Prompt Engineering]]
+- [[Context Engineering]]
+- [[Harness Engineering]]
+- [[Claude Code]]
+- [[Codex]]
+- [[Cursor]]
+- [[程序员鱼皮]]
+- [[Boris Cherny]]
+- [[Peter Steinberger]]
+- [[Overbaking]]
+- [[WorkTree]]
+- [[MCP]]
+- [[Benchmark vs 任务交付]]
+- [[Vibe Coding]]
+- [[AI幻觉]]
+- [[知识复利]]

@@ -33,3 +33,10 @@ Loop Engineering 中的一种典型失败模式。当 Loop 运行过久、目标
 2. **设置合理的循环次数上限**：如 "20 轮还没搞定就停下来"
 3. **跑完后人工审查**：不要无脑合并 AI 的产出
 4. **从简单的小目标开始**：别一上来就跑大而模糊的 Loop
+
+## 关联连接
+- [[Loop Engineering]]
+- [[AI幻觉]]
+- [[Vibe Coding]]
+- [[Benchmark vs 任务交付]]
+- [[WorkTree]]

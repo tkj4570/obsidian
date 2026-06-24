@@ -40,3 +40,15 @@ updated: 2026-06-22
 ## 在本知识库中
 
 本知识库本身就是 Obsidian Vault + LLM 维护的 LLM Wiki 实例。
+
+## 关联连接
+- [[LLM Wiki 模式]]
+- [[Dataview]]
+- [[Marp]]
+- [[知识复利]]
+- [[Context Engineering]]
+- [[Memex]]
+- [[Andrej Karpathy]]
+- [[Vibe Coding]]
+- [[GBrain]]
+- [[本地项目汇总]]

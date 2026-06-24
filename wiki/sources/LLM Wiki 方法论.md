@@ -77,3 +77,18 @@ Karpathy 列举了 LLM Wiki 适用的六大场景：
 本篇是本知识库的**元方法论**来源——我们的 [[CLAUDE.md]]、三层架构、Ingest/Query/Lint 工作流、[[wiki/index|索引]]和[[wiki/log|日志]]结构，全部直接源自这篇文章的设计。
 
 它和 [[sources/Loop Engineering 循环工程|Loop Engineering]] 文章形成有趣对照：Loop Engineering 讲的是"让 LLM 写代码时自动循环"，LLM Wiki 讲的是"让 LLM 维护知识时不断复利"——核心思想相通：**让 LLM 做持续的簿记工作，人类做策展和思考。**
+
+## 关联连接
+- [[LLM Wiki 模式]]
+- [[Memex]]
+- [[知识复利]]
+- [[Obsidian]]
+- [[Andrej Karpathy]]
+- [[Vannevar Bush]]
+- [[Loop Engineering]]
+- [[Context Engineering]]
+- [[CLAUDE.md]]
+- [[Vibe Coding]]
+- [[Benchmark vs 任务交付]]
+- [[Memex]]
+- [[知识复利]]

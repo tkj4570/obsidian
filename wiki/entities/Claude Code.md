@@ -50,3 +50,18 @@ npm install -g @anthropic-ai/claude-code
 | 模型切换 | CC Switch 直接配置 | CC Switch + 本地路由 | 内置 |
 
 详见 [[comparisons/Claude Code vs Codex vs Cursor|Claude Code vs Codex vs Cursor]]
+
+## 关联连接
+- [[Codex]]
+- [[Cursor]]
+- [[Loop Engineering]]
+- [[CC Switch]]
+- [[Anthropic]]
+- [[Harness Engineering]]
+- [[WorkTree]]
+- [[MCP]]
+- [[Context Engineering]]
+- [[Vibe Coding]]
+- [[Benchmark vs 任务交付]]
+- [[知识复利]]
+- [[Overbaking]]

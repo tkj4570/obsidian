@@ -1,14 +1,14 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "deepseek-v4-pro",
+  "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
   "excludedTags": [],
-  "mediaFolder": "",
+  "mediaFolder": "attachments",
   "systemPrompt": "",
   "persistentExternalContextPaths": [],
   "sharedEnvironmentVariables": "",
@@ -29,7 +29,7 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "requireCommandOrControlEnterToSend": false,
+  "requireCommandOrControlEnterToSend": true,
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
@@ -45,8 +45,8 @@
       "enableSonnet1M": true,
       "customModels": "",
       "lastModel": "haiku",
-      "environmentVariables": "ANTHROPIC_API_KEY=sk-c8a2feb9e7a54c7c9e505d8be06d15d7\nANTHROPIC_BASE_URL=http://127.0.0.1:15721\nANTHROPIC_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-flash\nANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-proOPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro",
-      "environmentHash": "ANTHROPIC_BASE_URL=http://127.0.0.1:15721|ANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro|ANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-proOPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro|ANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-flash|ANTHROPIC_MODEL=deepseek-v4-pro"
+      "environmentVariables": "ANTHROPIC_API_KEY=sk-dc7218cdd2fc402c80acc7e47e2e19b8.hvl290g3m7iTbpsI\nANTHROPIC_BASE_URL=http://127.0.0.1:15721",
+      "environmentHash": "ANTHROPIC_BASE_URL=http://127.0.0.1:15721"
     },
     "codex": {
       "enabled": false,
@@ -89,7 +89,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "deepseek-v4-pro"
+    "claude": "haiku"
   },
   "savedProviderEffort": {
     "claude": "high"

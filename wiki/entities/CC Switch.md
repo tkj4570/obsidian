@@ -43,3 +43,15 @@ updated: 2026-06-21
 1. **Claude Code 接 DeepSeek**：选择预设 → 填 API Key → 启用（无需路由，协议兼容）
 2. **Codex 接 DeepSeek**：选择预设 → 填 API Key → 开启本地路由 → 启用（需要协议转换）
 3. **其他工具**：类似操作，支持 Gemini CLI、OpenCode 等
+
+## 关联连接
+- [[Claude Code]]
+- [[Codex]]
+- [[DeepSeek]]
+- [[智谱 GLM]]
+- [[Benchmark vs 任务交付]]
+- [[Context Engineering]]
+- [[Loop Engineering]]
+- [[Vibe Coding]]
+- [[Horizon]]
+- [[Token Studio ROI]]

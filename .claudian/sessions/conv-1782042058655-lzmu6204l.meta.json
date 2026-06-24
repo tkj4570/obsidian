@@ -4,20 +4,23 @@
   "title": "你好",
   "titleGenerationStatus": "failed",
   "createdAt": 1782042058663,
-  "updatedAt": 1782093160331,
-  "lastResponseAt": 1782093160331,
-  "sessionId": "7124dd25-ed02-41d0-86bb-8590b231b891",
+  "updatedAt": 1782289851613,
+  "lastResponseAt": 1782289851613,
+  "sessionId": "848c1659-6765-4c49-981f-6dab4883346c",
   "providerState": {
-    "providerSessionId": "7124dd25-ed02-41d0-86bb-8590b231b891"
+    "providerSessionId": "848c1659-6765-4c49-981f-6dab4883346c",
+    "previousProviderSessionIds": [
+      "7124dd25-ed02-41d0-86bb-8590b231b891"
+    ]
   },
   "usage": {
-    "model": "deepseek-v4-pro",
-    "inputTokens": 368,
+    "model": "haiku",
+    "inputTokens": 0,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 92800,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 93168,
-    "percentage": 47,
+    "contextTokens": 0,
+    "percentage": 0,
     "contextWindowIsAuthoritative": true
   }
 }

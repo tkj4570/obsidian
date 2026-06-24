@@ -33,3 +33,11 @@ updated: 2026-06-21
 这是 AI 编程四范式的最底层/最基础。后续的 Context Engineering、Harness Engineering、Loop Engineering 都建立在它的基础之上，不会取代它。
 
 详见 [[comparisons/AI 编程四范式演进|AI 编程四范式演进]]。
+
+## 关联连接
+- [[Context Engineering]]
+- [[Harness Engineering]]
+- [[Loop Engineering]]
+- [[Vibe Coding]]
+- [[LLM Wiki 模式]]
+- [[AI幻觉]]

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782289898610-y9t7pc09b",
+  "providerId": "claude",
+  "title": "Reingest B站 video knowledge base tutorial",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782289898614,
+  "updatedAt": 1782295592525,
+  "lastResponseAt": 1782295592525,
+  "sessionId": "bf4dc317-aef1-49f8-bcaa-1979b8350b8c",
+  "providerState": {
+    "providerSessionId": "bf4dc317-aef1-49f8-bcaa-1979b8350b8c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

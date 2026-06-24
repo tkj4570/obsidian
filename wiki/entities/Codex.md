@@ -49,3 +49,19 @@ npm install -g @openai/codex
 ## 与同类工具对比
 
 详见 [[comparisons/Claude Code vs Codex vs Cursor|Claude Code vs Codex vs Cursor]]
+
+## 关联连接
+- [[Claude Code]]
+- [[Cursor]]
+- [[Loop Engineering]]
+- [[CC Switch]]
+- [[OpenAI]]
+- [[Harness Engineering]]
+- [[WorkTree]]
+- [[MCP]]
+- [[Context Engineering]]
+- [[Vibe Coding]]
+- [[Benchmark vs 任务交付]]
+- [[GBrain]]
+- [[Headroom]]
+- [[Codebase Memory MCP]]
