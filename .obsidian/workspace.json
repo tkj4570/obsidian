@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/GitHub热榜.md",
+                "file": "raw/articles/Codex 又出王炸功能「录制回放」，实战测评！附原理浅析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub热榜"
+              "title": "Codex 又出王炸功能「录制回放」，实战测评！附原理浅析"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/GitHub热榜.md",
+                "file": "raw/articles/Codex 又出王炸功能「录制回放」，实战测评！附原理浅析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "GitHub热榜 的反向链接列表"
+              "title": "Codex 又出王炸功能「录制回放」，实战测评！附原理浅析 的反向链接列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/index.md",
+                "file": "raw/articles/Codex 又出王炸功能「录制回放」，实战测评！附原理浅析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "Codex 又出王炸功能「录制回放」，实战测评！附原理浅析 的大纲"
             }
           },
           {
@@ -237,14 +237,19 @@
   },
   "active": "8e9821fc58140edd",
   "lastOpenFiles": [
+    "wiki/concepts/录制回放工作流.md",
+    "wiki/sources/Codex 录制回放功能评测.md",
+    "raw/articles/Horizon/horizon-2026-06-25-zh.md",
+    "raw/articles/Codex 又出王炸功能「录制回放」，实战测评！附原理浅析.md",
+    "raw/transcripts/把B站视频转成本地AI知识库！新手也能3分钟上手.md",
+    "wiki/index.md",
+    "wiki/concepts/GitHub热榜.md",
     "wiki/sources/Horizon 每日速递 2026-06-24.md",
     "raw/transcripts/6月23日 github热榜：涨⭐前十项目全解析.md",
-    "raw/transcripts/2026-06-24-把B站视频转成本地AI知识库！新手也能3分钟上手.md",
     "wiki/concepts/代码库记忆.md",
     "wiki/concepts/智能体技能.md",
     "wiki/concepts/开源超级智能体框架.md",
     "wiki/concepts/AI工作流工具.md",
-    "wiki/concepts/GitHub热榜.md",
     "wiki/entities/大雄AI实战.md",
     "wiki/sources/6月23日 github热榜：涨⭐前十项目全解析.md",
     "wiki/log.md",
@@ -258,11 +263,6 @@
     "wiki/entities/Anthropic.md",
     "wiki/entities/MIP耀.md",
     "wiki/entities/Google DeepMind.md",
-    "wiki/entities/GBrain.md",
-    "wiki/entities/Cursor.md",
-    "wiki/entities/Codex.md",
-    "wiki/entities/Codebase Memory MCP.md",
-    "wiki/entities/CC Switch.md",
     "raw/articles/personal",
     "raw/articles/未命名",
     "raw/articles/Horizon",
