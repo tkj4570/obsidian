@@ -4,19 +4,20 @@
   "title": "Reingest B站 video knowledge base tutorial",
   "titleGenerationStatus": "success",
   "createdAt": 1782289898614,
-  "updatedAt": 1782296737256,
-  "lastResponseAt": 1782296737256,
+  "updatedAt": 1782353124959,
+  "lastResponseAt": 1782353124959,
   "sessionId": "bf4dc317-aef1-49f8-bcaa-1979b8350b8c",
   "providerState": {
     "providerSessionId": "bf4dc317-aef1-49f8-bcaa-1979b8350b8c"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 411,
+    "inputTokens": 215,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 91520,
+    "cacheReadInputTokens": 98432,
     "contextWindow": 200000,
-    "contextTokens": 91931,
-    "percentage": 46
+    "contextTokens": 98647,
+    "percentage": 49,
+    "contextWindowIsAuthoritative": true
   }
 }

@@ -108,3 +108,11 @@
 - 创建概念: [[wiki/concepts/录制回放工作流]]
 - 更新: [[wiki/index]]
 - 注：去除作者个人观点，聚焦技术原理和客观分析，建立了录制回放工作流的概念体系
+
+## [2026-06-25] ingest | AI大模型原理解析
+- 来源：`raw/articles/AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解.md`
+- 创建源摘要页: [[wiki/sources/AI大模型原理解析]]
+- 更新概念: [[wiki/concepts/AI幻觉]]（补充详细技术原理）
+- 创建概念: [[wiki/concepts/Transformer架构]]
+- 更新: [[wiki/index]], [[wiki/log]]
+- 注：去除个人观点，聚焦AI大模型核心技术原理，建立了完整的技术分析框架
