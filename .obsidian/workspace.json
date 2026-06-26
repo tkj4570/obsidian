@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解.md",
+                "file": "raw/articles/Horizon/horizon-2026-06-25-zh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解"
+              "title": "horizon-2026-06-25-zh"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/articles/AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解.md",
+                "file": "wiki/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解 的反向链接列表"
+              "title": "log 的反向链接列表"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/articles/AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解.md",
+                "file": "wiki/log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解 的大纲"
+              "title": "log 的大纲"
             }
           },
           {
@@ -249,12 +249,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1570f7ef90606118",
+  "active": "8e9821fc58140edd",
   "lastOpenFiles": [
+    "wiki/sources/9年IDEA用户卸载IDEA.md",
+    "wiki/sources/Horizon 每日速递 2026-06-25.md",
+    "wiki/sources/AI 大模型原理讲解.md",
+    "raw/articles/9 年 IDEA 老用户，终于把它彻底卸载了！.md",
+    "wiki/log.md",
+    "raw/articles/AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解.md",
     "wiki/concepts/Transformer架构.md",
     "wiki/sources/AI大模型原理解析.md",
     "raw/articles/Horizon/horizon-2026-06-25-zh.md",
-    "raw/articles/AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解.md",
     "wiki/concepts/录制回放工作流.md",
     "raw/articles/Codex 又出王炸功能「录制回放」，实战测评！附原理浅析.md",
     "wiki/sources/Codex 录制回放功能评测.md",
@@ -269,14 +274,9 @@
     "wiki/concepts/AI工作流工具.md",
     "wiki/entities/大雄AI实战.md",
     "wiki/sources/6月23日 github热榜：涨⭐前十项目全解析.md",
-    "wiki/log.md",
     "wiki/concepts/多媒体知识摄入.md",
     "wiki/concepts/视频转知识库.md",
     "wiki/entities/视频转知识库.md",
-    "wiki/sources/B站视频转本地AI知识库！新手也能3分钟上手.md",
-    "wiki/entities/karpathy-llm-wiki-vault.md",
-    "wiki/entities/Local REST API.md",
-    "wiki/entities/Bilibili Web Clipper.md",
     "raw/articles/personal",
     "raw/articles/未命名",
     "raw/articles/Horizon",

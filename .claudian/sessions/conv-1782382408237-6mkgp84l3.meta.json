@@ -1,0 +1,22 @@
+{
+  "id": "conv-1782382408237-6mkgp84l3",
+  "providerId": "claude",
+  "title": "看看raw里面有没有没有摄入的文章，如果有则摄入下",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782382408238,
+  "updatedAt": 1782384358295,
+  "lastResponseAt": 1782384358295,
+  "sessionId": "fa073d4a-a7b5-4315-b5c6-2b050f485dfb",
+  "providerState": {
+    "providerSessionId": "fa073d4a-a7b5-4315-b5c6-2b050f485dfb"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

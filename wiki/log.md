@@ -89,6 +89,24 @@
 - 更新: [[wiki/index]], [[wiki/overview]]
 - 注：本次摄入完整构建了多媒体知识摄入的技术体系，填补了工具链和概念体系的重要空白
 
+## [2026-06-26] ingest | AI大模型原理讲解
+- 来源：`raw/articles/AI 为什么会胡说八道？傻子可懂的 AI 大模型原理讲解.md`
+- 创建源摘要页: [[wiki/sources/AI 大模型原理讲解]]
+- 更新: [[wiki/index]]
+- 注：去除作者个人观点，聚焦技术原理，涵盖AI生成本质、Transformer架构、训练三阶段、Scaling Law、MoE架构、思维链、多模态模型等核心概念
+
+## [2026-06-26] ingest | Horizon 每日速递 2026-06-25
+- 来源：`raw/articles/Horizon/horizon-2026-06-25-zh.md`
+- 创建源摘要页: [[wiki/sources/Horizon 每日速递 2026-06-25]]
+- 更新: [[wiki/index]]
+- 注：OpenAI发布定制AI芯片Jalapeno，高通40亿美元收购Modular，AI硬件竞争进入新阶段
+
+## [2026-06-26] ingest | 9年IDEA用户卸载IDEA
+- 来源：`raw/articles/9 年 IDEA 老用户，终于把它彻底卸载了！.md`
+- 创建源摘要页: [[wiki/sources/9年IDEA用户卸载IDEA]]
+- 更新: [[wiki/index]]
+- 注：分析AI编程对传统IDE的冲击，从IDEA到AI编程工具的演进，Harness Engineering新范式
+
 ## [2026-06-24] ingest | Horizon 每日速递 2026-06-24（最后一批摄入）
 - 来源：`raw/articles/Horizon/horizon-2026-06-24-zh.md`
 - 创建源摘要页: [[wiki/sources/Horizon 每日速递 2026-06-24]]

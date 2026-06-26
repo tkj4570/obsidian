@@ -45,7 +45,7 @@
       "enableSonnet1M": true,
       "customModels": "",
       "lastModel": "haiku",
-      "environmentVariables": "ANTHROPIC_API_KEY=sk-dc7218cdd2fc402c80acc7e47e2e19b8.hvl290g3m7iTbpsI\nANTHROPIC_BASE_URL=http://127.0.0.1:15721",
+      "environmentVariables": "ANTHROPIC_API_KEY=sk-ws-H.RYIPPPY.izJt.MEQCIFdGE2RjF3ItPWNLg1lrF2J68EytRCYQWiyre_iAzX7wAiAej4F81wUXdb5D0bUqsYx66sCfX1i_YUyZwTfboy2gSQ\nANTHROPIC_BASE_URL=http://127.0.0.1:15721",
       "environmentHash": "ANTHROPIC_BASE_URL=http://127.0.0.1:15721"
     },
     "codex": {
