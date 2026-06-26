@@ -251,6 +251,9 @@
   },
   "active": "8e9821fc58140edd",
   "lastOpenFiles": [
+    "wiki/sources/Horizon 每日速递 2026-06-26.md",
+    "raw/articles/Horizon/horizon-2026-06-26-zh.md",
+    "raw/articles/Horizon/daily-run.bat",
     "wiki/sources/9年IDEA用户卸载IDEA.md",
     "wiki/sources/Horizon 每日速递 2026-06-25.md",
     "wiki/sources/AI 大模型原理讲解.md",
@@ -275,8 +278,6 @@
     "wiki/entities/大雄AI实战.md",
     "wiki/sources/6月23日 github热榜：涨⭐前十项目全解析.md",
     "wiki/concepts/多媒体知识摄入.md",
-    "wiki/concepts/视频转知识库.md",
-    "wiki/entities/视频转知识库.md",
     "raw/articles/personal",
     "raw/articles/未命名",
     "raw/articles/Horizon",
@@ -286,7 +287,6 @@
     "llm-wiki-zh.md.tmp.16164.e7400a30453c",
     "wiki/log.md.tmp.16164.20ed37d847b3",
     "wiki/log.md.tmp.16164.688fdc80a24b",
-    "CLAUDE.md.tmp.16164.755af59bc800",
     "未命名.canvas"
   ]
 }

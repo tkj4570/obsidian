@@ -101,6 +101,12 @@
 - 更新: [[wiki/index]]
 - 注：OpenAI发布定制AI芯片Jalapeno，高通40亿美元收购Modular，AI硬件竞争进入新阶段
 
+## [2026-06-26] ingest | Horizon 每日速递 2026-06-26
+- 来源：`raw/articles/Horizon/horizon-2026-06-26-zh.md`
+- 创建源摘要页: [[wiki/sources/Horizon 每日速递 2026-06-26]]
+- 更新: [[wiki/index]]
+- 注：AI首次完整读取赫库兰尼姆卷轴，IBM发布亚1纳米芯片，苹果推出AI专用M7系列
+
 ## [2026-06-26] ingest | 9年IDEA用户卸载IDEA
 - 来源：`raw/articles/9 年 IDEA 老用户，终于把它彻底卸载了！.md`
 - 创建源摘要页: [[wiki/sources/9年IDEA用户卸载IDEA]]

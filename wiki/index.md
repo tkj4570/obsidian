@@ -26,6 +26,7 @@
 - [[wiki/sources/Codex 录制回放功能评测|Codex 录制回放功能评测]] — Codex Record & Replay功能技术评测，分析录制回放工作流原理、适用场景和技术实现
 - [[wiki/sources/AI大模型原理解析|AI大模型原理解析]] — 大语言模型核心原理的深度技术解析，涵盖生成机制、Transformer架构、训练流程、模型规模等内容
 - [[wiki/sources/Horizon 每日速递 2026-06-25|Horizon 2026-06-25]] — OpenAI发布定制AI芯片Jalapeno，高通40亿美元收购Modular，AI硬件竞争加剧
+- [[wiki/sources/Horizon 每日速递 2026-06-26|Horizon 2026-06-26]] — AI首次完整读取赫库兰尼姆卷轴，IBM发布亚1纳米芯片，苹果推出AI专用M7系列
 - [[wiki/sources/9年IDEA用户卸载IDEA|9年IDEA用户卸载IDEA]] — AI编程对开发工具的影响分析，从IDEA到AI编程工具的演进
 - [[wiki/sources/B站视频转本地AI知识库！新手也能3分钟上手|B站视频转本地AI知识库！新手也能3分钟上手]] — MIP耀的 B站视频转知识库自动化工作流，解决 Web Clipper 无法抓取 B站内容的问题
 
