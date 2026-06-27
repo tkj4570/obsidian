@@ -1,6 +1,6 @@
 # 操作日志
 
-> 按时间顺序追加的记录。涵盖所有 ingest、query、lint 操作。每条以 `## [YYYY-MM-DD] 操作类型 | 简述` 开头。
+> 按时间顺序追加的记录。涵盖所有 ingest、query、lint 操作。每条以 `## [YYYY-MM-DD HH:mm:ss] 操作类型 | 简述` 开头。
 > 实用技巧：`grep "^## \[" wiki/log.md | tail -10` 查看最近 10 条记录。
 
 ---

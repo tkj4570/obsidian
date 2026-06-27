@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/personal/本地项目汇总说明.md",
+                "file": "wiki/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地项目汇总说明"
+              "title": "index"
             }
           }
         ],
@@ -277,16 +277,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e9821fc58140edd",
+  "active": "e29d108efe4ffb50",
   "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/index.md",
+    "CLAUDE.md",
+    "raw/articles/personal/本地项目汇总说明.md",
+    "raw/articles/personal/每日常驻事项.md",
     "wiki/entities/声文智汇 ShengWen.md",
     "wiki/entities/Grab GLM Coding Plan.md",
-    "raw/articles/personal/每日常驻事项.md",
     "wiki/concepts/AI幻觉.md",
     "raw/transcripts/6月23日 github热榜：涨⭐前十项目全解析.md",
     "raw/articles/Horizon/horizon-2026-06-27-zh.md",
     "wiki/sources/Horizon 每日速递 2026-06-27.md",
-    "raw/articles/personal/本地项目汇总说明.md",
     "wiki/entities/Loop Demo.md",
     "wiki/entities/Noam Shazeer.md",
     "wiki/entities/Obsidian.md",
@@ -302,9 +305,6 @@
     "wiki/concepts/Memex.md",
     "wiki/concepts/Transformer架构.md",
     "wiki/concepts/Harness Engineering.md",
-    "wiki/concepts/Context Engineering.md",
-    "wiki/concepts/GitHub热榜.md",
-    "wiki/concepts/Benchmark vs 任务交付.md",
     "raw/articles/wechat",
     "raw/articles/Horizon/daily-run.bat",
     "raw/articles/personal",

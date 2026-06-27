@@ -7,8 +7,9 @@
 ## 一、三层架构
 
 ```
-raw/               ← 原始资料层（只读，LLM 不修改）
+raw/               ← 原始资料层（LLM 不修改，但 raw/articles/personal/ 除外）
   articles/        ← 博客文章、教程（含 Obsidian Web Clipper 输出）
+    personal/      ← 个人文档（LLM 可修改，如每日常驻事项、项目汇总等）
   papers/          ← 学术论文、研究报告
   docs/            ← 官方文档
   books/           ← 书籍章节
@@ -27,7 +28,7 @@ CLAUDE.md          ← 本文件（Schema 层，与用户共同演进）
 > **注意**：Obsidian Web Clipper 应配置为保存到 `raw/articles/` 目录，而非根目录的 `Clippings/`。
 
 **原则**：
-- `raw/` 及其子目录中的原始文件**不可修改**
+- `raw/` 及其子目录中的原始文件**不可修改**（`raw/articles/personal/` 除外，该目录下的个人文档 LLM 可以更新）
 - Wiki 层的所有 `.md` 文件由 LLM 创建和维护
 - 用户负责策展来源、提出问题、审查更新；LLM 负责所有书写和簿记工作
 
