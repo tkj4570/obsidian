@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "horizon-2026-06-27-zh"
             }
+          },
+          {
+            "id": "c9c7a2fd10f9d4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/Horizon 每日速递 2026-06-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Horizon 每日速递 2026-06-27"
+            }
+          },
+          {
+            "id": "b1c3bd3e98e60381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/AI幻觉.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI幻觉"
+            }
+          },
+          {
+            "id": "e29d108efe4ffb50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/entities/Loop Demo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loop Demo"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -235,35 +277,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e9821fc58140edd",
+  "active": "e29d108efe4ffb50",
   "lastOpenFiles": [
-    "wiki/entities/老汤的碳基突围.md",
-    "wiki/sources/Horizon 每日速递 2026-06-27.md",
-    "wiki/sources/RAG不是外挂知识库.md",
-    "wiki/sources/虾爹CC之父老黄强推的Loop设计.md",
-    "wiki/sources/AI幻觉击穿免责条款.md",
-    "wiki/sources/4.4万星的AI提示词金矿.md",
-    "raw/articles/RAG 不是外挂知识库，而是一套证据链系统.md",
-    "raw/articles/Horizon/horizon-2026-06-27-zh.md",
-    "raw/articles/AI幻觉击穿免责条款：德国法院裁定谷歌为AI生成内容担责.md",
-    "raw/transcripts/把B站视频转成本地AI知识库！新手也能3分钟上手.md",
-    "raw/transcripts/6月23日 github热榜：涨⭐前十项目全解析.md",
-    "raw/articles/虾爹+CC之父+老黄强推的Loop怎么设计？A社现场演示引160万围观.md",
-    "raw/transcripts/4.4万星的AI提示词金矿_偷学顶级团队怎么写prompt.md",
-    "raw/articles/Codex 又出王炸功能「录制回放」，实战测评！附原理浅析.md",
-    "raw/articles/wechat/2026-06-27 - 测试 2.md",
-    "raw/articles/wechat/2026-06-27 - 测试.md",
-    "wiki/sources/AI大模型原理解析.md",
-    "raw/articles/wechat",
-    "wiki/sources/Codex 录制回放功能评测.md",
-    "wiki/sources/CC-Switch 智谱 GLM 教程.md",
-    "wiki/sources/Horizon 每日速递 2026-06-24.md",
-    "wiki/sources/Horizon 每日速递 2026-06-22.md",
-    "wiki/sources/Horizon 每日速递 2026-06-21.md",
-    "wiki/concepts/视频转知识库.md",
-    "wiki/concepts/知识复利.md",
-    "wiki/concepts/智能体技能.md",
+    "wiki/entities/Noam Shazeer.md",
+    "wiki/entities/Obsidian.md",
+    "wiki/entities/John Jumper.md",
+    "wiki/entities/Boris Cherny.md",
+    "wiki/entities/Bilibili Web Clipper.md",
+    "wiki/concepts/Prompt Engineering.md",
+    "wiki/concepts/WorkTree.md",
+    "wiki/concepts/Vibe Coding.md",
+    "wiki/concepts/LLM Wiki 模式.md",
+    "wiki/concepts/Loop Engineering.md",
+    "wiki/concepts/MCP.md",
+    "wiki/concepts/Memex.md",
+    "wiki/concepts/Transformer架构.md",
+    "wiki/concepts/Harness Engineering.md",
+    "wiki/concepts/Context Engineering.md",
+    "wiki/concepts/GitHub热榜.md",
+    "wiki/concepts/Benchmark vs 任务交付.md",
+    "wiki/concepts/AI幻觉.md",
     "wiki/concepts/AI工作流工具.md",
+    "wiki/concepts/智能体技能.md",
+    "wiki/concepts/知识复利.md",
+    "wiki/concepts/视频转知识库.md",
+    "wiki/concepts/录制回放工作流.md",
+    "wiki/concepts/开源超级智能体框架.md",
+    "wiki/concepts/代码库记忆.md",
+    "wiki/concepts/多媒体知识摄入.md",
+    "raw/articles/wechat",
     "raw/articles/Horizon/daily-run.bat",
     "raw/articles/personal",
     "raw/articles/Horizon",
