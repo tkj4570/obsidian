@@ -1,0 +1,9 @@
+{
+  "apiBaseUrl": "https://cloud1-d3gvuz4256fba5e84-1443228054.ap-shanghai.app.tcloudbase.com/obsync",
+  "token": "obs_rfr9zhEY1sNTQ9-dgtpmt02HsbTfDxvWJN_XzQe08is",
+  "userId": "usr_2a89264856b248e6826e88aa7c019168",
+  "syncFolder": "raw/articles/wechat",
+  "deviceName": "Obsidian",
+  "syncIntervalMinutes": 5,
+  "localizeImages": true
+}

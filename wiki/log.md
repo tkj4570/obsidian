@@ -107,6 +107,13 @@
 - 更新: [[wiki/index]]
 - 注：AI首次完整读取赫库兰尼姆卷轴，IBM发布亚1纳米芯片，苹果推出AI专用M7系列
 
+## [2026-06-27] ingest | 批量摄入raw目录剩余文章
+- 来源：`raw/transcripts/4.4万星的AI提示词金矿.md`、`raw/articles/虾爹+CC之父+老黄强推的Loop.md`、`raw/articles/AI幻觉击穿免责条款.md`、`raw/articles/RAG不是外挂知识库.md`、`raw/articles/Horizon/horizon-2026-06-27-zh.md`
+- 创建源摘要页: 6篇
+- 创建实体: [[wiki/entities/老汤的碳基突围]]
+- 更新: [[wiki/index]]
+- 注：完成所有raw目录文章的摄入，建立完整的AI提示词工程、Loop Engineering、RAG证据链系统知识体系
+
 ## [2026-06-26] ingest | 9年IDEA用户卸载IDEA
 - 来源：`raw/articles/9 年 IDEA 老用户，终于把它彻底卸载了！.md`
 - 创建源摘要页: [[wiki/sources/9年IDEA用户卸载IDEA]]

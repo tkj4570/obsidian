@@ -28,6 +28,11 @@
 - [[wiki/sources/Horizon 每日速递 2026-06-25|Horizon 2026-06-25]] — OpenAI发布定制AI芯片Jalapeno，高通40亿美元收购Modular，AI硬件竞争加剧
 - [[wiki/sources/Horizon 每日速递 2026-06-26|Horizon 2026-06-26]] — AI首次完整读取赫库兰尼姆卷轴，IBM发布亚1纳米芯片，苹果推出AI专用M7系列
 - [[wiki/sources/9年IDEA用户卸载IDEA|9年IDEA用户卸载IDEA]] — AI编程对开发工具的影响分析，从IDEA到AI编程工具的演进
+- [[wiki/sources/4.4万星的AI提示词金矿|4.4万星的AI提示词金矿]] — 从4.4万星GitHub仓库偷学顶级团队的系统提示词设计
+- [[wiki/sources/虾爹CC之父老黄强推的Loop设计|虾爹CC之父老黄强推的Loop设计]] — Anthropic现场演示三个Agent加Loop从0构建游戏
+- [[wiki/sources/AI幻觉击穿免责条款|AI幻觉击穿免责条款]] — 德国法院裁定谷歌为AI生成内容担责80%
+- [[wiki/sources/RAG不是外挂知识库|RAG不是外挂知识库]] — RAG是证据链系统，不是简单的知识库接入
+- [[wiki/sources/Horizon 每日速递 2026-06-27|Horizon 2026-06-27]] — DeepSeek开源推理优化60-85%，GPT-5.6 Sol发布
 - [[wiki/sources/B站视频转本地AI知识库！新手也能3分钟上手|B站视频转本地AI知识库！新手也能3分钟上手]] — MIP耀的 B站视频转知识库自动化工作流，解决 Web Clipper 无法抓取 B站内容的问题
 
 ## 实体
