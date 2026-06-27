@@ -114,6 +114,13 @@
 - 更新: [[wiki/index]]
 - 注：完成所有raw目录文章的摄入，建立完整的AI提示词工程、Loop Engineering、RAG证据链系统知识体系
 
+## [2026-06-27] ingest | 本地项目：Grab GLM Coding Plan + 声文智汇 ShengWen
+- 来源：`D:\php_code\ai_project\grab-GLM-coding-plan-master\README.md`、`D:\php_code\ai_project\ShengWen-public\README.md`
+- 创建实体: [[wiki/entities/Grab GLM Coding Plan]], [[wiki/entities/声文智汇 ShengWen]]
+- 更新实体: [[wiki/entities/本地项目汇总]]
+- 更新: [[wiki/index]]
+- 注：Grab GLM Coding Plan是智谱套餐自动抢购助手；声文智汇是Agent驱动的长视频总结工作流，采用智能上下文技术
+
 ## [2026-06-26] ingest | 9年IDEA用户卸载IDEA
 - 来源：`raw/articles/9 年 IDEA 老用户，终于把它彻底卸载了！.md`
 - 创建源摘要页: [[wiki/sources/9年IDEA用户卸载IDEA]]

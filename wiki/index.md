@@ -56,8 +56,10 @@
 - [[wiki/entities/Token Studio ROI|Token Studio ROI]] — 鱼皮的本地 AI 编程 Token ROI 复盘系统
 
 ### 项目
-- [[wiki/entities/本地项目汇总|本地项目汇总]] — `D:\php_code\ai_project\` 下 5 个项目的统一索引
+- [[wiki/entities/本地项目汇总|本地项目汇总]] — `D:\php_code\ai_project\` 下 7 个项目的统一索引
 - [[wiki/entities/Loop Demo|Loop Demo]] — Loop Engineering 三工具实战演示项目
+- [[wiki/entities/Grab GLM Coding Plan|Grab GLM Coding Plan]] — 智谱GLM Coding Plan套餐自动抢购助手，支持本地验证码识别
+- [[wiki/entities/声文智汇 ShengWen|声文智汇 ShengWen]] — Agent驱动的长视频总结工作流，采用智能上下文技术
 
 ### 人物
 - [[wiki/entities/大雄AI实战|大雄AI实战]] — 专注于GitHub项目解析和AI技术教程的内容创作者，以系统化方式分析热门开源项目

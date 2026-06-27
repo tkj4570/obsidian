@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/entities/Loop Demo.md",
+                "file": "raw/articles/personal/本地项目汇总说明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loop Demo"
+              "title": "本地项目汇总说明"
             }
           }
         ],
@@ -277,8 +277,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e29d108efe4ffb50",
+  "active": "8e9821fc58140edd",
   "lastOpenFiles": [
+    "wiki/entities/声文智汇 ShengWen.md",
+    "wiki/entities/Grab GLM Coding Plan.md",
+    "raw/articles/personal/每日常驻事项.md",
+    "wiki/concepts/AI幻觉.md",
+    "raw/transcripts/6月23日 github热榜：涨⭐前十项目全解析.md",
+    "raw/articles/Horizon/horizon-2026-06-27-zh.md",
+    "wiki/sources/Horizon 每日速递 2026-06-27.md",
+    "raw/articles/personal/本地项目汇总说明.md",
+    "wiki/entities/Loop Demo.md",
     "wiki/entities/Noam Shazeer.md",
     "wiki/entities/Obsidian.md",
     "wiki/entities/John Jumper.md",
@@ -296,15 +305,6 @@
     "wiki/concepts/Context Engineering.md",
     "wiki/concepts/GitHub热榜.md",
     "wiki/concepts/Benchmark vs 任务交付.md",
-    "wiki/concepts/AI幻觉.md",
-    "wiki/concepts/AI工作流工具.md",
-    "wiki/concepts/智能体技能.md",
-    "wiki/concepts/知识复利.md",
-    "wiki/concepts/视频转知识库.md",
-    "wiki/concepts/录制回放工作流.md",
-    "wiki/concepts/开源超级智能体框架.md",
-    "wiki/concepts/代码库记忆.md",
-    "wiki/concepts/多媒体知识摄入.md",
     "raw/articles/wechat",
     "raw/articles/Horizon/daily-run.bat",
     "raw/articles/personal",
